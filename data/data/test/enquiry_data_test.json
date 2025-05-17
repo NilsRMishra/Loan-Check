@@ -1,0 +1,602 @@
+[
+  {
+    "enquiry_type":"Car loan",
+    "enquiry_amt":143000,
+    "enquiry_date":"2020-12-13",
+    "uid":"AAA02107680"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":174000,
+    "enquiry_date":"2020-12-01",
+    "uid":"AAA14437029"
+  },
+  {
+    "enquiry_type":"Loan for working capital replenishment",
+    "enquiry_amt":65000,
+    "enquiry_date":"2019-07-01",
+    "uid":"AAA14437029"
+  },
+  {
+    "enquiry_type":"Loan for working capital replenishment",
+    "enquiry_amt":118000,
+    "enquiry_date":"2020-08-05",
+    "uid":"AAA14437029"
+  },
+  {
+    "enquiry_type":"Car loan",
+    "enquiry_amt":12000,
+    "enquiry_date":"2020-02-28",
+    "uid":"AAA14437029"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":137000,
+    "enquiry_date":"2019-11-11",
+    "uid":"AAB12915377"
+  },
+  {
+    "enquiry_type":"Unknown type of loan",
+    "enquiry_amt":129000,
+    "enquiry_date":"2020-09-06",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Loan for the purchase of equipment",
+    "enquiry_amt":30000,
+    "enquiry_date":"2018-11-28",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":6000,
+    "enquiry_date":"2020-09-15",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Mortgage",
+    "enquiry_amt":79000,
+    "enquiry_date":"2019-09-22",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Another type of loan",
+    "enquiry_amt":28000,
+    "enquiry_date":"2019-05-23",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Cash loan (non-earmarked)",
+    "enquiry_amt":165000,
+    "enquiry_date":"2020-08-28",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Loan for business development",
+    "enquiry_amt":113000,
+    "enquiry_date":"2020-12-29",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":6000,
+    "enquiry_date":"2020-11-28",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":12000,
+    "enquiry_date":"2020-04-04",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":74000,
+    "enquiry_date":"2019-04-02",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":176000,
+    "enquiry_date":"2019-07-25",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Unknown type of loan",
+    "enquiry_amt":79000,
+    "enquiry_date":"2020-05-26",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":77000,
+    "enquiry_date":"2020-07-19",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Microloan",
+    "enquiry_amt":131000,
+    "enquiry_date":"2020-04-18",
+    "uid":"AAB55088883"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":162000,
+    "enquiry_date":"2020-04-24",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":179000,
+    "enquiry_date":"2019-08-14",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":127000,
+    "enquiry_date":"2020-10-29",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Credit card",
+    "enquiry_amt":59000,
+    "enquiry_date":"2020-11-19",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Loan for business development",
+    "enquiry_amt":117000,
+    "enquiry_date":"2020-11-12",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Loan for working capital replenishment",
+    "enquiry_amt":142000,
+    "enquiry_date":"2020-04-14",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Loan for business development",
+    "enquiry_amt":52000,
+    "enquiry_date":"2020-07-30",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Consumer credit",
+    "enquiry_amt":120000,
+    "enquiry_date":"2018-05-04",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Revolving loans",
+    "enquiry_amt":185000,
+    "enquiry_date":"2019-10-26",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Loan for the purchase of equipment",
+    "enquiry_amt":159000,
+    "enquiry_date":"2020-07-24",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Loan for working capital replenishment",
+    "enquiry_amt":9000,
+    "enquiry_date":"2019-10-15",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Unknown type of loan",
+    "enquiry_amt":186000,
+    "enquiry_date":"2021-01-01",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Mobile operator loan",
+    "enquiry_amt":162000,
+    "enquiry_date":"2019-12-26",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Revolving loans",
+    "enquiry_amt":60000,
+    "enquiry_date":"2019-12-15",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Another type of loan",
+    "enquiry_amt":141000,
+    "enquiry_date":"2020-10-01",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Interbank credit",
+    "enquiry_amt":62000,
+    "enquiry_date":"2018-08-28",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Loan for purchase of shares (margin lending)",
+    "enquiry_amt":65000,
+    "enquiry_date":"2020-07-08",
+    "uid":"AAB68152393"
+  },
+  {
+    "enquiry_type":"Cash loan (non-earmarked)",
+    "enquiry_amt":89000,
+    "enquiry_date":"2020-10-13",
+    "uid":"AAB81290576"
+  },
+  {
+    "enquiry_type":"Credit card",
+    "enquiry_amt":125000,
+    "enquiry_date":"2020-08-31",
+    "uid":"AAC29580834"
+  },
+  {
+    "enquiry_type":"Cash loan (non-earmarked)",
+    "enquiry_amt":33000,
+    "enquiry_date":"2020-07-16",
+    "uid":"AAC29580834"
+  },
+  {
+    "enquiry_type":"Microloan",
+    "enquiry_amt":26861,
+    "enquiry_date":"2020-11-13",
+    "uid":"AAC82689201"
+  },
+  {
+    "enquiry_type":"Unknown type of loan",
+    "enquiry_amt":433826,
+    "enquiry_date":"2019-02-09",
+    "uid":"AAC82689201"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":323309,
+    "enquiry_date":"2018-10-14",
+    "uid":"AAC82689201"
+  },
+  {
+    "enquiry_type":"Unknown type of loan",
+    "enquiry_amt":392391,
+    "enquiry_date":"2019-08-13",
+    "uid":"AAC82689201"
+  },
+  {
+    "enquiry_type":"Revolving loans",
+    "enquiry_amt":326292,
+    "enquiry_date":"2020-09-01",
+    "uid":"AAC82689201"
+  },
+  {
+    "enquiry_type":"Microloan",
+    "enquiry_amt":135000,
+    "enquiry_date":"2020-08-31",
+    "uid":"AAC85763409"
+  },
+  {
+    "enquiry_type":"Credit card",
+    "enquiry_amt":59000,
+    "enquiry_date":"2020-08-12",
+    "uid":"AAC85763409"
+  },
+  {
+    "enquiry_type":"Loan for the purchase of equipment",
+    "enquiry_amt":59000,
+    "enquiry_date":"2020-07-05",
+    "uid":"AAC85763409"
+  },
+  {
+    "enquiry_type":"Loan for the purchase of equipment",
+    "enquiry_amt":188000,
+    "enquiry_date":"2020-10-19",
+    "uid":"AAC85763409"
+  },
+  {
+    "enquiry_type":"Car loan",
+    "enquiry_amt":186000,
+    "enquiry_date":"2020-11-28",
+    "uid":"AAC85763409"
+  },
+  {
+    "enquiry_type":"Loan for purchase of shares (margin lending)",
+    "enquiry_amt":138000,
+    "enquiry_date":"2020-12-20",
+    "uid":"AAC85763409"
+  },
+  {
+    "enquiry_type":"Revolving loans",
+    "enquiry_amt":110000,
+    "enquiry_date":"2019-06-13",
+    "uid":"AAD28872488"
+  },
+  {
+    "enquiry_type":"Loan for the purchase of equipment",
+    "enquiry_amt":41000,
+    "enquiry_date":"2019-06-15",
+    "uid":"AAD28872488"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":180000,
+    "enquiry_date":"2020-10-01",
+    "uid":"AAD28872488"
+  },
+  {
+    "enquiry_type":"Another type of loan",
+    "enquiry_amt":185000,
+    "enquiry_date":"2019-01-18",
+    "uid":"AAD28872488"
+  },
+  {
+    "enquiry_type":"Interbank credit",
+    "enquiry_amt":176000,
+    "enquiry_date":"2020-11-01",
+    "uid":"AAE38809797"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":136000,
+    "enquiry_date":"2020-08-22",
+    "uid":"AAE38809797"
+  },
+  {
+    "enquiry_type":"Loan for purchase of shares (margin lending)",
+    "enquiry_amt":152000,
+    "enquiry_date":"2020-12-21",
+    "uid":"AAE38809797"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":70000,
+    "enquiry_date":"2020-11-06",
+    "uid":"AAE38809797"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":9000,
+    "enquiry_date":"2020-03-20",
+    "uid":"AAE38809797"
+  },
+  {
+    "enquiry_type":"Mortgage",
+    "enquiry_amt":177000,
+    "enquiry_date":"2020-01-14",
+    "uid":"AAE38809797"
+  },
+  {
+    "enquiry_type":"Consumer credit",
+    "enquiry_amt":27000,
+    "enquiry_date":"2020-07-28",
+    "uid":"AAE38809797"
+  },
+  {
+    "enquiry_type":"Car loan",
+    "enquiry_amt":191000,
+    "enquiry_date":"2017-12-12",
+    "uid":"AAE51339986"
+  },
+  {
+    "enquiry_type":"Loan for business development",
+    "enquiry_amt":105000,
+    "enquiry_date":"2018-11-16",
+    "uid":"AAE51339986"
+  },
+  {
+    "enquiry_type":"Consumer credit",
+    "enquiry_amt":161000,
+    "enquiry_date":"2020-11-13",
+    "uid":"AAE51339986"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":44000,
+    "enquiry_date":"2018-06-30",
+    "uid":"AAE74041438"
+  },
+  {
+    "enquiry_type":"Revolving loans",
+    "enquiry_amt":63000,
+    "enquiry_date":"2020-08-25",
+    "uid":"AAE74041438"
+  },
+  {
+    "enquiry_type":"Loan for working capital replenishment",
+    "enquiry_amt":131000,
+    "enquiry_date":"2020-12-22",
+    "uid":"AAF09759241"
+  },
+  {
+    "enquiry_type":"Loan for purchase of shares (margin lending)",
+    "enquiry_amt":178000,
+    "enquiry_date":"2020-08-19",
+    "uid":"AAF50979440"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":109000,
+    "enquiry_date":"2020-09-20",
+    "uid":"AAF50979440"
+  },
+  {
+    "enquiry_type":"Loan for business development",
+    "enquiry_amt":171000,
+    "enquiry_date":"2020-01-07",
+    "uid":"AAF50979440"
+  },
+  {
+    "enquiry_type":"Cash loan (non-earmarked)",
+    "enquiry_amt":20000,
+    "enquiry_date":"2020-03-05",
+    "uid":"AAF50979440"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":163000,
+    "enquiry_date":"2020-12-08",
+    "uid":"AAF97291472"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":43000,
+    "enquiry_date":"2020-12-28",
+    "uid":"AAF97291472"
+  },
+  {
+    "enquiry_type":"Another type of loan",
+    "enquiry_amt":16000,
+    "enquiry_date":"2020-08-10",
+    "uid":"AAG04946904"
+  },
+  {
+    "enquiry_type":"Loan for the purchase of equipment",
+    "enquiry_amt":61000,
+    "enquiry_date":"2019-10-13",
+    "uid":"AAG04946904"
+  },
+  {
+    "enquiry_type":"Credit card",
+    "enquiry_amt":138000,
+    "enquiry_date":"2019-10-07",
+    "uid":"AAG06468990"
+  },
+  {
+    "enquiry_type":"Revolving loans",
+    "enquiry_amt":177000,
+    "enquiry_date":"2019-11-04",
+    "uid":"AAG06468990"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":108000,
+    "enquiry_date":"2019-07-29",
+    "uid":"AAG06468990"
+  },
+  {
+    "enquiry_type":"Credit card",
+    "enquiry_amt":69000,
+    "enquiry_date":"2020-06-22",
+    "uid":"AAG06468990"
+  },
+  {
+    "enquiry_type":"Loan for business development",
+    "enquiry_amt":179000,
+    "enquiry_date":"2019-08-31",
+    "uid":"AAG06468990"
+  },
+  {
+    "enquiry_type":"Unknown type of loan",
+    "enquiry_amt":18000,
+    "enquiry_date":"2020-05-17",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":101000,
+    "enquiry_date":"2019-02-11",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Mobile operator loan",
+    "enquiry_amt":187000,
+    "enquiry_date":"2020-09-11",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Another type of loan",
+    "enquiry_amt":50000,
+    "enquiry_date":"2019-01-09",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Loan for working capital replenishment",
+    "enquiry_amt":176000,
+    "enquiry_date":"2019-10-05",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Mortgage",
+    "enquiry_amt":15000,
+    "enquiry_date":"2020-01-28",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Cash loan (non-earmarked)",
+    "enquiry_amt":121000,
+    "enquiry_date":"2019-05-26",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Real estate loan",
+    "enquiry_amt":72000,
+    "enquiry_date":"2020-06-19",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Microloan",
+    "enquiry_amt":5000,
+    "enquiry_date":"2018-10-13",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Revolving loans",
+    "enquiry_amt":133000,
+    "enquiry_date":"2020-11-20",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Car loan",
+    "enquiry_amt":41000,
+    "enquiry_date":"2020-08-30",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Cash loan (non-earmarked)",
+    "enquiry_amt":62000,
+    "enquiry_date":"2020-10-29",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":170000,
+    "enquiry_date":"2020-05-17",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Loan for the purchase of equipment",
+    "enquiry_amt":142000,
+    "enquiry_date":"2020-08-04",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Loan for business development",
+    "enquiry_amt":165000,
+    "enquiry_date":"2020-12-03",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":84000,
+    "enquiry_date":"2020-05-14",
+    "uid":"AAG67018395"
+  },
+  {
+    "enquiry_type":"Mobile operator loan",
+    "enquiry_amt":148000,
+    "enquiry_date":"2020-11-19",
+    "uid":"AAG88085948"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":146000,
+    "enquiry_date":"2019-11-11",
+    "uid":"AAG88085948"
+  },
+  {
+    "enquiry_type":"Cash loans",
+    "enquiry_amt":45000,
+    "enquiry_date":"2020-12-31",
+    "uid":"AAG88085948"
+  }
+]

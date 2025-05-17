@@ -1,0 +1,902 @@
+[
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":272745.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-09-22",
+    "closed_date":"2020-02-22",
+    "payment_hist_string":"000000000000000000000010000000000000000000000000000",
+    "uid":"AAA09044550"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":4500.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-03-08",
+    "closed_date":"2019-07-25",
+    "payment_hist_string":"000000000000000014044000000000000000000000000000",
+    "uid":"AAA09044550"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":80996.445,
+    "amount_overdue":0.0,
+    "open_date":"2020-06-29",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAA10545297"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":43771.5,
+    "amount_overdue":0.0,
+    "open_date":"2020-06-09",
+    "closed_date":"2020-09-09",
+    "payment_hist_string":"000000000",
+    "uid":"AAA14112888"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":10480.5,
+    "amount_overdue":0.0,
+    "open_date":"2014-09-10",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000017047077107137167197227257287317347377407437467497527557587617647677707737767797827857887917000000000000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":46696.5,
+    "amount_overdue":0.0,
+    "open_date":"2016-11-20",
+    "closed_date":"2017-10-06",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":0.0,
+    "amount_overdue":0.0,
+    "open_date":"2014-09-10",
+    "closed_date":"2018-08-30",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":117000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-02-04",
+    "closed_date":"2018-05-06",
+    "payment_hist_string":"000000000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":90000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-03-12",
+    "closed_date":"2020-04-12",
+    "payment_hist_string":"000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":235800.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-03-29",
+    "closed_date":"2020-05-13",
+    "payment_hist_string":"000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":46620.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-06-22",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":45000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-06-28",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAA20326915"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":687150.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-10-10",
+    "closed_date":null,
+    "payment_hist_string":"000000",
+    "uid":"AAA31604840"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":41845.5,
+    "amount_overdue":0.0,
+    "open_date":"2017-02-15",
+    "closed_date":"2018-02-28",
+    "payment_hist_string":"000000000000000000000000000000000000",
+    "uid":"AAA31604840"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":468000.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-06-09",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAA31604840"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":304965.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-04-15",
+    "closed_date":"2020-10-15",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000",
+    "uid":"AAA31604840"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":90000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-09-16",
+    "closed_date":null,
+    "payment_hist_string":"000000000",
+    "uid":"AAA31604840"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":61762.5,
+    "amount_overdue":0.0,
+    "open_date":"2017-10-02",
+    "closed_date":"2018-04-02",
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAA54240429"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":50940.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-01-08",
+    "closed_date":"2020-11-08",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAA56011736"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":225000.0,
+    "amount_overdue":0.0,
+    "open_date":"2013-09-24",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000008038068098128158188218248278308338368398428458488518548578608638668698728758000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAA56011736"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":729000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-01-12",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000",
+    "uid":"AAA56011736"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":46407.96,
+    "amount_overdue":0.0,
+    "open_date":"2018-04-16",
+    "closed_date":"2018-09-16",
+    "payment_hist_string":"000000000000000",
+    "uid":"AAA56011736"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":117000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-07-07",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAA56011736"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":106257.375,
+    "amount_overdue":0.0,
+    "open_date":"2019-05-23",
+    "closed_date":"2020-01-12",
+    "payment_hist_string":"000000000000000000000",
+    "uid":"AAA56011736"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":46404.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-04-15",
+    "closed_date":"2018-09-16",
+    "payment_hist_string":"000000000000000",
+    "uid":"AAA56011736"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":220375.8,
+    "amount_overdue":0.0,
+    "open_date":"2019-12-22",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000",
+    "uid":"AAA89688332"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":337500.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-09-19",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAA89688332"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":80721.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-10-11",
+    "closed_date":"2019-10-11",
+    "payment_hist_string":"000000000000000000021051000000000000",
+    "uid":"AAA89688332"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":918450.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-09-12",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000",
+    "uid":"AAA89688332"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":110565.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-11-05",
+    "closed_date":"2018-09-08",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAB09356880"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":116280.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-06-26",
+    "closed_date":"2019-05-28",
+    "payment_hist_string":"000000000000000000000000000000000",
+    "uid":"AAB09356880"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":450000.0,
+    "amount_overdue":0.0,
+    "open_date":"2014-03-14",
+    "closed_date":"2015-09-12",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":468000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-05-07",
+    "closed_date":"2019-03-08",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":315000.0,
+    "amount_overdue":0.0,
+    "open_date":"2016-12-24",
+    "closed_date":"2019-03-08",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":225000.0,
+    "amount_overdue":0.0,
+    "open_date":"2015-11-30",
+    "closed_date":"2016-12-03",
+    "payment_hist_string":"000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":278460.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-11-22",
+    "closed_date":"2020-11-21",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":34497.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-02-08",
+    "closed_date":"2018-08-09",
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":225000.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-10-18",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":450000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-05-02",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":448884.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-11-19",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":113868.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-10-12",
+    "closed_date":null,
+    "payment_hist_string":"000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":46597.5,
+    "amount_overdue":0.0,
+    "open_date":"2018-08-03",
+    "closed_date":"2019-02-03",
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":225000.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-05-22",
+    "closed_date":"2020-05-25",
+    "payment_hist_string":"000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":121500.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-11-14",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000",
+    "uid":"AAB18081226"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":35455.5,
+    "amount_overdue":0.0,
+    "open_date":"2019-01-23",
+    "closed_date":"2019-11-25",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAB24952920"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":15935.4,
+    "amount_overdue":0.0,
+    "open_date":"2018-12-08",
+    "closed_date":"2019-04-11",
+    "payment_hist_string":"000000000000",
+    "uid":"AAB24952920"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":9000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-08-25",
+    "closed_date":null,
+    "payment_hist_string":"000000000000",
+    "uid":"AAB24952920"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":65578.5,
+    "amount_overdue":0.0,
+    "open_date":"2020-08-25",
+    "closed_date":null,
+    "payment_hist_string":"000000000000",
+    "uid":"AAB24952920"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":138510.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-10-11",
+    "closed_date":"2020-08-09",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAB24952920"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":25961.535,
+    "amount_overdue":0.0,
+    "open_date":"2019-02-18",
+    "closed_date":"2019-08-31",
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAB24952920"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":115200.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-06-08",
+    "closed_date":"2019-01-12",
+    "payment_hist_string":"000000013000000000000",
+    "uid":"AAB24952920"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":104697.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-02-25",
+    "closed_date":"2018-05-30",
+    "payment_hist_string":"000000000000000000000000000000000000000000000",
+    "uid":"AAB26897980"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":96980.4,
+    "amount_overdue":0.0,
+    "open_date":"2019-09-03",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000",
+    "uid":"AAB26897980"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":157500.0,
+    "amount_overdue":0.0,
+    "open_date":"2016-03-07",
+    "closed_date":"2018-05-06",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB26897980"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":585000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-09-25",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB26897980"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":180000.0,
+    "amount_overdue":0.0,
+    "open_date":"2016-11-27",
+    "closed_date":"2018-10-21",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB26897980"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":360000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-10-21",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB26897980"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":135000.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-10-13",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB58182302"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":29464.29,
+    "amount_overdue":0.0,
+    "open_date":"2020-03-11",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000",
+    "uid":"AAB58217542"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":103500.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-06-11",
+    "closed_date":"2020-04-30",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAB67762691"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":81000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-12-15",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB67762691"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":103500.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-06-06",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB67762691"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":103500.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-04-16",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB67762691"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":135000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-11-24",
+    "closed_date":null,
+    "payment_hist_string":"000",
+    "uid":"AAB67762691"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":90000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-07-24",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000",
+    "uid":"AAB67762691"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":0.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-06-11",
+    "closed_date":"2020-04-30",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAB67762691"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":180000.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-07-29",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB80258822"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":121455.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-03-02",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAB80258822"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":157500.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-09-04",
+    "closed_date":"2020-07-02",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":450000.0,
+    "amount_overdue":0.0,
+    "open_date":"2015-09-25",
+    "closed_date":"2019-12-02",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":90000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-10-16",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":294300.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-09-22",
+    "closed_date":null,
+    "payment_hist_string":"007000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":607500.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-11-29",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":229590.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-12-26",
+    "closed_date":null,
+    "payment_hist_string":"000019000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":84798.99,
+    "amount_overdue":0.0,
+    "open_date":"2017-09-21",
+    "closed_date":"2019-05-07",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":337500.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-06-22",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":113065.335,
+    "amount_overdue":0.0,
+    "open_date":"2019-05-07",
+    "closed_date":"2019-11-29",
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAB88391112"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":43200.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-04-12",
+    "closed_date":"2019-05-10",
+    "payment_hist_string":"",
+    "uid":"AAC05666087"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":110115.0,
+    "amount_overdue":0.0,
+    "open_date":"2016-01-27",
+    "closed_date":"2017-01-26",
+    "payment_hist_string":"000000000000000000000000000000000000",
+    "uid":"AAC05666087"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":145890.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-09-29",
+    "closed_date":"2019-04-01",
+    "payment_hist_string":"000000000000000000",
+    "uid":"AAC05666087"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":225000.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-07-31",
+    "closed_date":"2018-01-09",
+    "payment_hist_string":"000000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":235395.0,
+    "amount_overdue":0.0,
+    "open_date":"2014-09-08",
+    "closed_date":"2016-03-29",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":439560.0,
+    "amount_overdue":0.0,
+    "open_date":"2016-03-25",
+    "closed_date":"2018-08-28",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":540000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-05-21",
+    "closed_date":"2019-12-18",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":1308240.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-12-16",
+    "closed_date":null,
+    "payment_hist_string":"000000000000002032062092000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":450000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-08-23",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":315000.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-02-26",
+    "closed_date":"2019-07-08",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":1004463.0,
+    "amount_overdue":0.0,
+    "open_date":"2019-11-05",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000",
+    "uid":"AAC09972281"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":43150.5,
+    "amount_overdue":0.0,
+    "open_date":"2018-06-27",
+    "closed_date":"2018-09-29",
+    "payment_hist_string":"003000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":0.0,
+    "amount_overdue":0.0,
+    "open_date":"2018-06-27",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Mortgage",
+    "loan_amount":1687500.0,
+    "amount_overdue":0.0,
+    "open_date":"2015-11-07",
+    "closed_date":"2017-04-04",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":22491.0,
+    "amount_overdue":0.0,
+    "open_date":"2015-12-30",
+    "closed_date":"2016-03-25",
+    "payment_hist_string":"000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":59962.5,
+    "amount_overdue":0.0,
+    "open_date":"2016-02-07",
+    "closed_date":"2018-03-10",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":72000.0,
+    "amount_overdue":0.0,
+    "open_date":"2016-06-26",
+    "closed_date":"2018-03-10",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":49828.5,
+    "amount_overdue":0.0,
+    "open_date":"2017-09-19",
+    "closed_date":"2018-07-14",
+    "payment_hist_string":"000000000000000000000000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":675000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-02-01",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000000000000000",
+    "uid":"AAC13959291"
+  },
+  {
+    "credit_type":"Car loan",
+    "loan_amount":1183500.0,
+    "amount_overdue":0.0,
+    "open_date":"2014-10-21",
+    "closed_date":"2019-11-12",
+    "payment_hist_string":"000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "uid":"AAC32107477"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":67500.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-05-20",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000",
+    "uid":"AAC32609437"
+  },
+  {
+    "credit_type":"Credit card",
+    "loan_amount":117000.0,
+    "amount_overdue":0.0,
+    "open_date":"2020-05-22",
+    "closed_date":null,
+    "payment_hist_string":"000000000000000000000",
+    "uid":"AAC32609437"
+  },
+  {
+    "credit_type":"Consumer credit",
+    "loan_amount":45000.0,
+    "amount_overdue":0.0,
+    "open_date":"2017-09-05",
+    "closed_date":"2018-07-28",
+    "payment_hist_string":"000000000000000000000000000000",
+    "uid":"AAC32609437"
+  }
+]
